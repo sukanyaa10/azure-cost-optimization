@@ -19,8 +19,6 @@ Serverless architecture using Azure Cosmos DB and Blob Storage to reduce costs f
 3. Set timers for archival.
 4. Test the API.
 
-## Prompt for Recruiter
-"I used ChatGPT to collaboratively design this solution. I prompted it with the scenario and constraints, discussed architectural trade-offs, and asked for edge case handling and production readiness. The full conversation history is attached to demonstrate deep engagement beyond surface-level suggestions."
 
 ## Production Considerations
 - Retry and error handling in archival jobs
