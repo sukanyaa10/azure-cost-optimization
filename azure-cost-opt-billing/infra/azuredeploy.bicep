@@ -1,0 +1,1 @@
+// Optional Bicep template for provisioning resources
